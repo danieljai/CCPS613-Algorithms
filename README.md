@@ -1,5 +1,5 @@
 # Algorithms
-Algorithms for Ryerson University CIND 613, Fall 2020
+Algorithms for Ryerson University CCPS 613
 
 ## Labs
 
