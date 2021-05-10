@@ -1,0 +1,17 @@
+CCPS616 - Lab 1 – Andy Lee
+Each result is the average of 10 trials
+
+n = 	5e2		1e3		5e3		1e4		5e4
+Sel	0.199800ms	1.000100ms	23.692100ms	99.467300ms	2290.247600ms	
+Merge	0.000000ms	0.199800ms	0.500000ms	1.399700ms	8.696800ms	
+
+MergeSel
+2=a1	0.100000ms	0.000000ms	0.599800ms	1.499300ms	8.297200ms	
+4=a2	0.000000ms	0.000000ms	0.899500ms	1.399500ms	7.597300ms	
+10=a3	0.200000ms	0.199900ms	0.199900ms	1.399600ms	7.197600ms	
+12=a4	0.000000ms	0.099900ms	0.799800ms	1.399700ms	7.297700ms	
+16=a5	0.099900ms	0.099900ms	0.599900ms	1.799200ms	7.497200ms	
+bestX	4		2		10		4		10		
+
+
+Based on this, MergeSel performed best (we hope) when x = 10

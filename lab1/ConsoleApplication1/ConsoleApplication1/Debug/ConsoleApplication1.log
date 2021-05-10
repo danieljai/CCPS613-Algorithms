@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  ConsoleApplication1.cpp
+  Generating Code...
+.NETFramework,Version=v4.6.1.AssemblyAttributes.obj : warning LNK4099: PDB 'vc141.pdb' was not found with '.NETFramework,Version=v4.6.1.AssemblyAttributes.obj' or at 'G:\My Drive\__CCPS 613 - Algorithms\lab1\ConsoleApplication1\Debug\vc141.pdb'; linking object as if no debug info
+stdafx.obj : warning LNK4099: PDB 'vc141.pdb' was not found with 'stdafx.obj' or at 'G:\My Drive\__CCPS 613 - Algorithms\lab1\ConsoleApplication1\Debug\vc141.pdb'; linking object as if no debug info
+ConsoleApplication1.obj : warning LNK4099: PDB 'vc141.pdb' was not found with 'ConsoleApplication1.obj' or at 'G:\My Drive\__CCPS 613 - Algorithms\lab1\ConsoleApplication1\Debug\vc141.pdb'; linking object as if no debug info
+AssemblyInfo.obj : warning LNK4099: PDB 'vc141.pdb' was not found with 'AssemblyInfo.obj' or at 'G:\My Drive\__CCPS 613 - Algorithms\lab1\ConsoleApplication1\Debug\vc141.pdb'; linking object as if no debug info
+  ConsoleApplication1.vcxproj -> G:\My Drive\__CCPS 613 - Algorithms\lab1\ConsoleApplication1\Debug\ConsoleApplication1.exe

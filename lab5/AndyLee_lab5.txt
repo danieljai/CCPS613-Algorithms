@@ -1,0 +1,11 @@
+CCPS616 - Lab 5 - Andy Lee
+Items: (1,1) (7,28) (7,28) 
+Value: 57
+Weight: 15
+
+Items: (1,1) (7,28) (7,28) 
+Value: 57
+Weight: 15
+
+
+**** Both vectors match ****
